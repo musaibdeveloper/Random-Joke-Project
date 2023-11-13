@@ -1,0 +1,30 @@
+body{
+    background-color:beige;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    font-family: cursive;
+}
+
+h2{
+     text-align: center;
+    font-family: cursive;
+}
+
+.container{
+    text-align: center;
+    height: 50vh
+
+
+}
+.btn{
+    align-items: center;
+    font-family: cursive;
+    font-size: 25px;
+    color: red;
+    height: 50px;
+    margin: 50px;
+
+}
